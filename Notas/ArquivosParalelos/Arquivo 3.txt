@@ -1,0 +1,2 @@
+Este arquivo foi gerado com um comando mágico do Jupyter Notebook.
+A célula recebe texto sem muito critério.
